@@ -100,8 +100,7 @@ async def on_member_join (member):
     channel = bot.get_channel('1019201774025969737')
     await channel.send ("Welcome to Orion Weed INC. We are pleased to have you here, you can choose your roles in channel")
 
-bot.run('MTIxNDE0MTMyMTUxODc4NDUzMg.GVhUkA.iH43jxHnuO2ilZ9Mz3KGJSHvVjbJXTcFteqr3Q')
-# bot.run('MTE5OTMwODg4MjgyOTM5ODExNw.Ggr1JN.NUH2kCZ1TbdRZEYBYFPJ1Py6bA-RPCS19qKQlw') ## test bot
+bot.run('bot code')
 
 
 
